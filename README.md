@@ -14,7 +14,7 @@ The following conditions have been applied to the project:
 
 ## Implementation Description
 
-### Defining the Concept of gGene and cChromosome
+### Defining the Concept of Gene and Chromosome
 
 Here, each chromosome has a length equal to three times the number of days and includes the ID of doctors who are in each shift. Each gene is also equivalent to one shift.
 
